@@ -14,7 +14,7 @@
 
 ---
 
-## � Autores
+## 😁 Autores
 
 
 - **Ever Nicolás Muñoz Cortés** - *evmunoz@unal.edu.co*
@@ -26,9 +26,9 @@
 
 ---
 
-## �📋 Descripción del Proyecto
+## 📋 Descripción del Proyecto
 
-**TaskFlow Pro** es un sistema avanzado de gestión y planificación de proyectos que implementa el método de la **Ruta Crítica (CPM)**. A diferencia de herramientas comerciales, este motor ha sido construido **desde cero** implementando estructuras de datos fundamentales en Python, sin depender de librerías externas para la lógica de grafos.
+**TaskFlow Pro** es un sistema avanzado de gestión y planificación de proyectos que implementa el método de la **Ruta Crítica (CPM)**. A diferencia de herramientas comerciales, este motor ha sido construido **desde cero** implementando estructuras de datos fundamentales en Python, sin depender de librerías externas para la lógica.
 
 El sistema permite:
 - **Modelar Proyectos Complejos**: Definir tareas con duración, prioridad y dependencias múltiples.
