@@ -172,19 +172,30 @@ npm run dev
 
 ### 1. Gestión de Tareas
 Define tus tareas en el panel principal. Asigna prioridades y dependencias.
+
+<br>
+
 <img src="img/1Gestiondetareas.gif" alt="Inserción" width="600">
 
 ### 2. Visualización y Edición
 Busca, edita o elimina tareas existentes.
 
+<br>
+
 <img src="img/2Visualizacionyedicion.gif" alt="Edición" width="600">
 
 ### 3. Generación del Plan
 El sistema analizará el grafo. Si es válido, mostrará la visualización interactiva y la ruta crítica.
+
+<br>
+
 <img src="img/3Generaciondelplan.gif" alt="Grafo" width="600">
 
 ### 4. Detección de Errores
-Si creas un ciclo (ej. A depende de B, y B depende de A), el sistema lo detectará y te impedirá generar un plan inválido.
+Si creas un ciclo (ej. A depende de B, y B depende de A), se detectará y te impedirá generar un plan inválido.
+
+<br>
+
 <img src="img/4Detecciondeerrores.gif" alt="Ciclo" width="600">
 
 ---
